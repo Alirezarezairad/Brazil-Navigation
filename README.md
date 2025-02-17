@@ -27,7 +27,7 @@
 
 ## 🎥 Demo & Screenshots
 
-📹 **Demo-Video ansehen:** *(Falls gewünscht, kann das hochgeladene Video hier verlinkt werden.)*
+📹 **Demo-Video ansehen:** (media/vorschau.webm)
 
 ---
 
