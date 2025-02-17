@@ -30,7 +30,7 @@
 📹 **Demo-Video ansehen:**  
 👉 [Hier klicken, um das Video herunterzuladen]()
 
-
+![webseite demo bild](media/flag.jpg)
 ---
 
 ## 🤝 Mitwirken
