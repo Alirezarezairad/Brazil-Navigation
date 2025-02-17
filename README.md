@@ -28,7 +28,7 @@
 ## 🎥 Demo & Screenshots
 
 📹 **Demo-Video ansehen:**  
-👉 [Hier klicken, um das Video herunterzuladen](https://github.com/Alirezarezairad/Brazil-Navigation/raw/main/media/vorschau.webm)
+👉 [Hier klicken, um das Video herunterzuladen]()
 
 
 ---
